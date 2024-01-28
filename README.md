@@ -4,8 +4,8 @@ Ce dépôt contient mes tout premiers codes, témoins de mes débuts en frontend
 
 ## Contenu 📂
 
-- [Code source](/code): Découvrez les premiers programmes que j'ai créés, du simple "Hello World" aux projets initiaux.
-- [Notes](/notes): Retrouvez mes annotations, commentaires et réflexions sur le code. C'est ici que j'ai consigné mes découvertes et compréhensions.
+- [Code source]: Découvrez les premiers programmes que j'ai créés, du simple "Hello World" aux projets initiaux.
+- [Notes]: Retrouvez mes annotations, commentaires et réflexions sur le code. C'est ici que j'ai consigné mes découvertes et compréhensions.
 
 ## Domaine de codage 🌐
 
